@@ -166,6 +166,7 @@ No aplica
 |NO REPORTADO|	117|	0.04 %|
 
 A traves de los años:
+
 ![Alt text](https://i.imgur.com/BKL44Cf.png )
 
 
@@ -199,7 +200,9 @@ Por grupo etario se aprecia que la mayoria son menores, hay un cambio de proporc
 |NO REPORTADO |	61 |	0.09 % |
 
 ![Alt text](https://i.imgur.com/08dm8eC.png )
+
 A traves de los años:
+
 ![Alt text](https://i.imgur.com/BLEth8n.png )
 
 Separando por genero el porcentaje de hombres es casi el 80% siendo un porcentaje casi que permanente todos los años
@@ -216,7 +219,9 @@ Separando por genero el porcentaje de hombres es casi el 80% siendo un porcentaj
 
 
 ![Alt text](https://i.imgur.com/5K6oaNN.png)
+
 A traves de los años:
+
 ![Alt text](https://i.imgur.com/8QDN5df.png )
 
 Lo mismo ocurre separando por grupo etario el cual el mayor porcentaje es adultos y se mantiene casi igual la proporcion sin importar el año.
@@ -234,6 +239,7 @@ En su mayoria casi todos los años presentan un comportamiento similar todos los
 #### 2.4.2 Secuestros
 
 A traves de los años:
+
 
 ![Alt text](https://i.imgur.com/lW7jijC.png)
 
@@ -255,6 +261,7 @@ Los homicidios presentan algunos patrones en los meses:
 #### 2.4.4 Extorsiones
 
 A traves de los años:
+
 ![Alt text](https://i.imgur.com/7CEltsb.png)
 
 En las extorsiones parece no haber un patron en los meses a excepcion del mes de octubre que aparenta una disminucionen todos los años y un aumento en Febrero.
